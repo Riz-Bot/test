@@ -1,3 +1,4 @@
 # test
 for testing fork
-output
+input
+
